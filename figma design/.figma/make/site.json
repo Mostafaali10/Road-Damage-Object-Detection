@@ -1,0 +1,10 @@
+{
+  "description": "Analyze road images and dashcam footage to detect and classify pavement damage, helping road maintenance teams assess conditions and prioritize repairs.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

@@ -1,0 +1,35 @@
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ultralytics training runs and raw experiments
+runs/
+experiments/
+
+# Large training archives
+*.zip
+*.tar.gz
+full_backup.zip
+
+# Pretrained base models in root
+yolov8n.pt
+yolov8s.pt
+yolov8m.pt
+
+# Figma Design node dependencies
+Figma Design/node_modules/
+Figma Design/dist/
+Figma Design/.mise.toml
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
